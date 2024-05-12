@@ -1,0 +1,19 @@
+body {
+  color: white;
+  background-color: rgb(63, 240, 149);
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.btn {
+  background-color: white;
+  width: 150px;
+  border: none;
+  padding: 10px;
+  color: black;
+  border-radius: 6px;
+  font-size: 1rem;
+}
